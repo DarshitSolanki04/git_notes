@@ -1,3 +1,3 @@
-# git_tutorial
+# Git CLI Notes
 
-Important and useful git commands.
+Useful git commands.
